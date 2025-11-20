@@ -3,9 +3,9 @@
 This project is a full-stack demo of a 401(k) contribution page. It uses a React + Vite single-page frontend and a Node.js Express backend. The application loads mock user data, allows the user to adjust contribution settings, shows live retirement projections, and saves updates to a backend API. The entire project runs locally using Node and npm.
 
 ------------------------------------------------------------
-```
 ## Project Structure
 
+```
 hi-401k/
     backend/        Express API
     frontend/       React SPA (Vite)
