@@ -7,8 +7,8 @@ This project is a full-stack demo of a 401(k) contribution page. It uses a React
 
 ```
 hi-401k/
-    backend/        Express API
-    frontend/       React SPA (Vite)
+    backend - Express API
+    frontend - React SPA (Vite)
 ```
 
 ------------------------------------------------------------
